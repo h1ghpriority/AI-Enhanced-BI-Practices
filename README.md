@@ -25,4 +25,5 @@ This repository serves as a central hub for workshop materials, including the se
 
 ├─ wiki/                      # Session agenda, reference notes, and extended materials
 ├─ slides/                    # PowerPoint or PDF versions of workshop slides
-└─ resources/                 # Additional materials, handouts, or participant examples
+└─ Additional resources/      # Additional materials, handouts, or participant examples
+└─ Samples/                   # Additional materials, handouts, or participant examples
